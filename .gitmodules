@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Superpower"]
+	path = Superpower
+	url = https://github.com/arcaldwell49/superpower
+	shallow = true
+	registered = true
