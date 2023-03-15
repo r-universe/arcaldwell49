@@ -1,5 +1,9 @@
 [
   {
+    "package": "SimplyAgree",
+    "oncran": true
+  },
+  {
     "package": "Superpower",
     "oncran": true
   }
