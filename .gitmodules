@@ -13,3 +13,8 @@
 	url = https://github.com/arcaldwell49/superpower
 	shallow = true
 	registered = true
+[submodule "TOSTER"]
+	path = TOSTER
+	url = https://github.com/cran/TOSTER
+	shallow = true
+	registered = true
