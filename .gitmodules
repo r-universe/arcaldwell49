@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SimplyAgree"]
 	path = SimplyAgree
 	url = https://github.com/arcaldwell49/simplyagree
-	shallow = true
-	registered = true
 [submodule "Superpower"]
 	path = Superpower
 	url = https://github.com/arcaldwell49/superpower
-	shallow = true
-	registered = true
 [submodule "TOSTER"]
 	path = TOSTER
 	url = https://github.com/cran/TOSTER
-	shallow = true
-	registered = true
